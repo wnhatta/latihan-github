@@ -1,6 +1,5 @@
 WNH RESOLUSI
 - Konsisten untuk belajar pemrograman web
 - Membuat website untuk portofolio
-- Membuat website utama untuk mendeskripsikan diri dan menampilkan list project
-- Membuat 5 website dengan konsep berbeda
+- Membuat website utama untuk mendeskripsikan diri dan menampilkan list project & Membuat 5 website dengan konsep berbeda
 - Melamar kerja sebagai frontend web developer
